@@ -1,3 +1,12 @@
+Hi its Don
+
+https://www.facebook.com/share/1GYGusbXHj/?mibextid=wwXIfr
+
+Or
+
+videogamegod on Discord
+
+
 # The _brace_ C++ Library
 
 _brace_ is a general-purpose C++ library, made up of classes and functions that I have found useful. It is very much a work in progress and I will be adding to the library from time to time. My hope is that you will find it useful as well.
